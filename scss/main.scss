@@ -37,6 +37,13 @@ body {
   background-color: RGBA(224, 224, 224, 1);
   border-bottom: 2px black solid;
   color: black;
+  position: relative;
+}
+
+.display-number {
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
 }
 
 
